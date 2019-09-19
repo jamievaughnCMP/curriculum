@@ -36,6 +36,7 @@
   * ### Lecture 5
     * Terminal, bash/ linux commands
     * Git, Github Pages
+    * Markdown, ReadMe.md
     > hw
   * ### Lecture 6
     * First Open Source Contribution w/ https://github.com/firstcontributions/first-contributions
