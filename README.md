@@ -12,8 +12,8 @@
 | CSS                                            | 8   |
 | CSS frameworks (Bootstrap)	                   | 4   |
 | Mobile Responsive Design                       | 12  |
-| Git & GitHub & VSCode                          | 6   |
 | Accessibility	& UI/UX                          | 4   |
+| Git & GitHub & VSCode                          | 6   |
 | Individual Projects (Portfolio)	               | 4   |
 | SASS	                                         | 4   |
 | Intro to JQuery & the DOM                      | 8   |
@@ -28,13 +28,14 @@
 | Linting & Unit Testing                         | 4   |
 | State Management (Context, Redux)	             | 6   |
 | Node, Mongo DB	                               | 12  |
-| Team Project (CRUD Application)                | 12  |
+| Final Project (CRUD Application)               | 12  |
 | Resume, Interviewing and Career Skills	       | 4   |
 | Total	                                         | 182 |
 
 
 #### Classroom Segments
   * 10 minutes of Inspiration: Sharing Codedrops, Dribbble, Podcasts tidbits
+  * Web Dev Brain Teasers
   * Homework Session: previous and next HW Q&A
   * Main Lecture Topic: Slides & Review of Video Course Material
   * Code-Along: Hands-on, Guided coding exercise
@@ -52,3 +53,4 @@
   * Online editors: [Codepen](Codepen.io), [Codesandbox](Codesandbox.io), [Glitch](glitch.com)
   * Frontend Docs: [MDN](https://developer.mozilla.org/en-US/), [Stack Overflow](stackoverflow.com)
   * [Github](github.com)
+  * [Figma](figma.com)
