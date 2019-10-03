@@ -18,9 +18,9 @@
 | SASS	                                         | 4   |
 | Intro to JQuery & the DOM                      | 8   |
 | Performance & Debugging                        | 8   |
-| JavaScript Essentials	                         | 15  |
+| JavaScript Essentials	                         | 14  |
 | JSON & AJAX	& HTTP/S & APIs                    | 8   |
-| Advanced JavaScript	& ES6+                     | 15  |
+| Advanced JavaScript	& ES6+                     | 14  |
 | Functional Programming & CS Concepts           | 8   |
 | Javascript Design Patterns	                   | 12  |
 | React	& JS Frameworks                          | 12  |
@@ -30,7 +30,7 @@
 | Node, Mongo DB	                               | 12  |
 | Final Project (CRUD Application)               | 12  |
 | Resume, Interviewing and Career Skills	       | 4   |
-| Total	                                         | 182 |
+| Total	                                         | 180 |
 
 
 #### Classroom Segments
