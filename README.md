@@ -1,64 +1,54 @@
-# Segments
-  > 10 minutes of Inspiration to ease into each Lecture: Sharing Codedrops, Dribbble, Podcasts tidbits
-  ---
-  > Homework Session: 
-  > > Assign next HW and do first and last problem together & Q+A on last week's homework
-  ---
-  > Project Session: Introduce project and offer advice on first steps
-  ---
-  ---
-  > Angela Yu Lecture Review of important points
-  ---
-  ---
-  > Survey of Computer Science Topics
-  ---
-  > Last 30 minutes of class for self paced work and individuals' questions
+# MCC Frontend Professional Certification
+  * To Equip students with modern skills and tools needed to become a professional Frontend Developer or even launch their own online venture!
 
-# Curriculum Topics
-  >HW Resource: [Freecodecamp.org](https://learn.freecodecamp.org/)
+## Instructors
+  * Jamie Vaughn - jamie.vaughn4@gmail.com
+  * Chris Shepard - CShepard.dev@gmail.com
 
-## Week 1
-  * ### Lecture 1
-    * Codepen, Codesandbox, Glitch
-    * HTML: HTML5, Common Elements, Semantic HTML
-    * MDN/StackOverflow and Finding Documentation, "read, search, ask" Excercise
-    > HW 1: FCC *Basic HTML and HTML5 part 1*
-  * ### Lecture 2
-    * Advanced HTML: Accessibility, SEO, SVG, iframe encapsulation
-    * Visual Presentation: Lists, Media Objects, Flows
-    * UI/UX patterns, affordances, dark patterns/ethics
-    * Design Mocks, User Research/Ethnography/Design of Everyday things
-    * Text Editors: VSCode and Atom, useful extensions
-    > HW 2: FCC *Basic HTML and HTML5 part 2*
-   > #### No Project week 1
+## Frontend Academy Syllabus
+| Topic                                          |Hours| 
+| ---------                                      |:---:| 
+| HTML                                           | 8   |
+| CSS                                            | 8   |
+| CSS frameworks (Bootstrap)	                   | 4   |
+| Mobile Responsive Design                       | 12  |
+| Git & GitHub & VSCode                          | 6   |
+| Accessibility	& UI/UX                          | 4   |
+| Individual Projects (Portfolio)	               | 4   |
+| SASS	                                         | 4   |
+| Intro to JQuery & the DOM                      | 8   |
+| Performance & Debugging                        | 8   |
+| JavaScript Essentials	                         | 15  |
+| JSON & AJAX	& HTTP/S & APIs                    | 8   |
+| Advanced JavaScript	& ES6+                     | 15  |
+| Functional Programming & CS Concepts           | 8   |
+| Javascript Design Patterns	                   | 12  |
+| React	& JS Frameworks                          | 12  |
+| JS Build Tools (Webpack, Gulp) 	               | 8   |
+| Linting & Unit Testing                         | 4   |
+| State Management (Context, Redux)	             | 6   |
+| Node, Mongo DB	                               | 12  |
+| Team Project (CRUD Application)                | 12  |
+| Resume, Interviewing and Career Skills	       | 4   |
+| Total	                                         | 182 |
 
-## Week 2
-  * ### Lecture 3
-    * CSS3, Cascading, Selectors, Specificity
-    * CSS length units
-    * Media Queries, Browsers and Device Compatibility, Caniuse.com
-    * Mobile First responsive design
-    > HW 3: FCC *Basic CSS Part 1* 
-  * ### Lecture 4
-    * CSS Flexbox
-    * CSS Grid
-    * CSS Custom Properties
-    * CSS Frameworks: Bootstrap, Bulma, Materialize
-    * Forms
-    > HW 4: FCC *Basic CSS Part 2* 
-  > #### Project 1: Static website
 
-## Week 3
-  * ### Lecture 5
-    * Terminal, bash/ linux commands
-    * Git, Github Pages
-    * Markdown, ReadMe.md
-    > hw
-  * ### Lecture 6
-    * First Open Source Contribution w/ https://github.com/firstcontributions/first-contributions
-    * Open source, using others' code and licenses
-    * Creating a live portfolio page
-    > hw
-  > #### Project 2: Create live portfolio page
-  
-##
+#### Classroom Segments
+  * 10 minutes of Inspiration: Sharing Codedrops, Dribbble, Podcasts tidbits
+  * Homework Session: previous and next HW Q&A
+  * Main Lecture Topic: Slides & Review of Video Course Material
+  * Code-Along: Hands-on, Guided coding exercise
+  * Survey of Computer Science Topics & Theory
+  * Project Session: Introduce project & advice on first steps
+
+#### HW Resource
+  * [Freecodecamp.org](https://learn.freecodecamp.org/)
+
+#### HW Ticket Tracking
+  * [Trello](https://trello.com/b/kP8TwrOh/mcc-frontend-academy)
+
+##### Other Online Class Resources
+  * [Slack](frontendacademy.slack.com)
+  * Online editors: [Codepen](Codepen.io), [Codesandbox](Codesandbox.io), [Glitch](glitch.com)
+  * Frontend Docs: [MDN](https://developer.mozilla.org/en-US/), [Stack Overflow](stackoverflow.com)
+  * [Github](github.com)
